@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WAMP_Engine", "WAMP_Engine\WAMP_Engine.vcproj", "{BD77A53E-0FED-4AA1-BEC5-378DD848BECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD77A53E-0FED-4AA1-BEC5-378DD848BECB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD77A53E-0FED-4AA1-BEC5-378DD848BECB}.Debug|Win32.Build.0 = Debug|Win32
+		{BD77A53E-0FED-4AA1-BEC5-378DD848BECB}.Release|Win32.ActiveCfg = Release|Win32
+		{BD77A53E-0FED-4AA1-BEC5-378DD848BECB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
